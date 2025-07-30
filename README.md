@@ -17,4 +17,4 @@ class Market {
         int discount = total - (total / 10);  // 10% discount
         System.out.println("Price after 10% discount: " + discount);
     }
-}
+.}
